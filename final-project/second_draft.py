@@ -1,6 +1,6 @@
 #user input
 print ("\n")
-print("🧝 ~Pick your perfect meal deal to find out what type of magical woodland creature you are!~ ")
+print("🧝 ~Pick your perfect meal deal to find out what type of magical woodland creature you are!~ 🧚")
 score= 0
 print ("\n")
 
